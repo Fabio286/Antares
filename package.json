@@ -151,7 +151,7 @@
     "node-firebird": "~1.1.8",
     "node-loader": "~2.0.0",
     "pg": "~8.11.5",
-    "pg-connection-string": "~2.5.0",
+    "pg-connection-string": "~2.6.4",
     "pg-query-stream": "~4.2.3",
     "pgsql-ast-parser": "~7.2.1",
     "pinia": "~2.1.7",
