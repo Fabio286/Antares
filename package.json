@@ -121,7 +121,7 @@
   "dependencies": {
     "@electron/remote": "~2.1.2",
     "@fabio286/ssh2-promise": "~1.0.4-b",
-    "@faker-js/faker": "~6.1.2",
+    "@faker-js/faker": "~8.4.1",
     "@jamescoyle/vue-icon": "~0.1.2",
     "@mdi/js": "~7.2.96",
     "@turf/helpers": "~6.5.0",
