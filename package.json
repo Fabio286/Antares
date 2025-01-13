@@ -152,7 +152,7 @@
     "node-loader": "~2.0.0",
     "pg": "~8.11.5",
     "pg-query-stream": "~4.2.3",
-    "pgsql-ast-parser": "~7.2.1",
+    "pgsql-ast-parser": "~12.0.1",
     "pinia": "~2.1.7",
     "postcss-html": "~1.5.0",
     "progress-webpack-plugin": "~1.0.12",
